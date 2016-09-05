@@ -9,7 +9,7 @@ import java.sql.Statement;
 
 public class DBConnection {
     
-	private static final String URL_MYSQL = "jdbc:mysql://localhost/blog";
+	private static final String URL_MYSQL = "jdbc:mysql://localhost/dsiii";
     private static final String DRIVER_CLASS_MYSQL = "com.mysql.jdbc.Driver";
     private static final String USER = "root";
     private static final String PASS = "";
